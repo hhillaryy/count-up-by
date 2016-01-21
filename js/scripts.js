@@ -1,13 +1,6 @@
-var countBy = function(){
-  if (countBy = 2);
-  return countBy;
-}
-var countTo = function(){
-  if (countTo = 10);
-  return countTo;
-}
+var countUpBy = function(countBy, countTo) {
 
-
+}
 
 $(document).ready(function() {
 
