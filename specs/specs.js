@@ -8,4 +8,8 @@ describe("countTo", function(){
     expect(countTo(10)).to.equal(10)
   });
 });
-describe("")
+describe("counter", function(){
+  it("count by the the number defined by countBy until it is less than or equal to countTo", function(){
+    expect(counter(2)).to.equal(10)
+  });
+});
